@@ -1,0 +1,42 @@
+th,td{
+    border: 2px;        
+}
+
+table{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 165px;
+}
+
+.c{
+    background-color: red;
+    border: 2px;
+}
+
+.v{
+    background-color: red;
+    border: 2px;
+}
+
+.z{
+    background-color: green;
+    border: 2px;
+}
+
+.yellow{
+    background-color: yellow;
+    border: 2px;
+}
+
+.x{
+    width: 85px;
+    border: 2px;
+}
+
+.r{
+    background-color: aqua;
+    width: 60px;
+    box-decoration-break: 2px;
+}
